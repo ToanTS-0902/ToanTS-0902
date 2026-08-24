@@ -27,7 +27,7 @@ A voice-and-vision admissions assistant I deployed on a Jetson Orin Nano Super. 
 
 ### [FPT Exam Assistant](https://github.com/dinhkhoi124/Exam-Proctor-Assist)
 
-A team-built exam-support platform combining a production RAG pipeline, temporal document handling, evidence-aware responses, OCR ingestion, authentication, administration, and a responsive web interface. As **Team Lead and Primary Developer**, I implemented most of the system, owned the RAG architecture and integration, and designed the evaluation suite.
+A team-built exam-support platform combining a production RAG pipeline, temporal document handling, evidence-aware responses, OCR ingestion, authentication, administration, and a responsive web interface. As Team Lead and Primary Developer, I implemented most of the system, designed the hybrid RAG architecture and its integration, and built the evaluation suite.
 
 <code>RAG</code> <code>LangChain</code> <code>FAISS</code> <code>BM25</code> <code>FastAPI</code> <code>React</code> <code>PostgreSQL</code>
 
