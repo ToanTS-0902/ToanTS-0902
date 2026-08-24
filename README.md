@@ -2,22 +2,28 @@
 
 ### AI Engineer building practical machine-learning products
 
-I work across the full AI product lifecycle—from data preparation and model training to backend inference APIs and user-facing applications. My current interests include computer vision, speech and audio intelligence, recommender systems, and applied machine learning.
+I work across the full AI product lifecycle—from data preparation and model training to backend inference APIs, edge deployment, and user-facing applications. My current interests include computer vision, speech and audio intelligence, retrieval-augmented generation, recommender systems, and applied machine learning.
 
 I studied Artificial Intelligence at **FPT University, Can Tho Campus** (2022–2026).
 
 ## Technical skills
 
 **AI and data**  
-Python · TensorFlow/Keras · scikit-learn · OpenCV · MediaPipe · Librosa · pandas · NumPy
+Python · TensorFlow/Keras · scikit-learn · OpenCV · MediaPipe · FAISS · LangChain · Librosa · pandas · NumPy
 
 **Application development**  
-Flask · REST APIs · React · TypeScript · Vite · Tailwind CSS · Supabase · SQL
+FastAPI · Flask · REST APIs · WebSocket · React · TypeScript · Vite · Tailwind CSS · Supabase · SQL
 
 **Engineering workflow**  
-Git · GitHub · Jupyter · Model evaluation · Data visualization · API integration
+NVIDIA Jetson · Ubuntu · Git · GitHub · Jupyter · Model evaluation · Data visualization · API integration
 
 ## Featured projects
+
+### [Wild Toad — Edge AI Open Day Assistant](https://github.com/ToanTS-0902/wild-toad-ai-assistant)
+
+A voice-and-vision admissions assistant I deployed on a Jetson Orin Nano Super. The final system combines a Vietnamese RAG pipeline, streaming speech interaction, CSI-camera face tracking, optional serial hardware control, a FastAPI WebSocket service, and an animated React kiosk interface.
+
+<code>Jetson</code> <code>RAG</code> <code>FAISS</code> <code>Computer Vision</code> <code>Speech AI</code> <code>FastAPI</code> <code>React</code>
 
 ### [Mood2Music](https://github.com/ToanTS-0902/mood2music)
 
