@@ -25,6 +25,18 @@ A voice-and-vision admissions assistant I deployed on a Jetson Orin Nano Super. 
 
 <code>Jetson</code> <code>RAG</code> <code>FAISS</code> <code>Computer Vision</code> <code>Speech AI</code> <code>FastAPI</code> <code>React</code>
 
+### [FPT Exam Assistant](https://github.com/dinhkhoi124/Exam-Proctor-Assist)
+
+A team-built exam-support platform combining a production RAG pipeline, temporal document handling, evidence-aware responses, OCR ingestion, authentication, administration, and a responsive web interface. As **Team Lead and Primary Developer**, I implemented most of the system, owned the RAG architecture and integration, and designed the evaluation suite.
+
+<code>RAG</code> <code>LangChain</code> <code>FAISS</code> <code>BM25</code> <code>FastAPI</code> <code>React</code> <code>PostgreSQL</code>
+
+### [ExamAssist RAG Research](https://github.com/ToanTS-0902/examassist-rag-research)
+
+A research companion to FPT Exam Assistant with reproducible ablations for context deduplication, temporal freshness, automatic document-family discovery, OCR-aware ingestion, and official ParentDocument baselines. It publishes curated aggregate results and clustered-bootstrap analyses while excluding private institutional data.
+
+<code>Information Retrieval</code> <code>RAG Evaluation</code> <code>Temporal Retrieval</code> <code>Python</code> <code>Jupyter</code>
+
 ### [Mood2Music](https://github.com/ToanTS-0902/mood2music)
 
 An end-to-end emotion-aware music recommendation application. I trained and integrated facial and speech emotion-recognition models, implemented the Flask inference and recommendation logic, and connected the AI backend to a React/TypeScript interface with Supabase authentication and history.
