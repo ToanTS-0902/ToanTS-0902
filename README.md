@@ -2,7 +2,7 @@
 
 ### AI Engineer building practical machine-learning products
 
-I work across the full AI product lifecycle—from data preparation and model training to backend inference APIs, edge deployment, and user-facing applications. My current interests include computer vision, speech and audio intelligence, retrieval-augmented generation, recommender systems, and applied machine learning.
+I work across the full AI product lifecycle—from data preparation and model training to backend inference APIs, edge deployment, and user-facing applications. My current interests include computer vision, speech and audio intelligence, large language models, retrieval-augmented generation, recommender systems, and applied machine learning.
 
 I studied Artificial Intelligence at **FPT University, Can Tho Campus** (2022–2026).
 
