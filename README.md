@@ -2,14 +2,14 @@
 
 ### AI Engineer building practical machine-learning products
 
-I work across the full AI product lifecycle—from data preparation and model training to backend inference APIs, edge deployment, and user-facing applications. My current interests include computer vision, speech and audio intelligence, large language models, retrieval-augmented generation, recommender systems, and applied machine learning.
+I work across the full AI product lifecycle—from data preparation and model training to backend inference APIs, edge deployment, and user-facing applications. My current interests include computer vision, speech and audio intelligence, large language models, retrieval-augmented generation, reinforcement learning, recommender systems, and applied machine learning.
 
 I studied Artificial Intelligence at **FPT University, Can Tho Campus** (2022–2026).
 
 ## Technical skills
 
 **AI and data**  
-Python · TensorFlow/Keras · scikit-learn · OpenCV · MediaPipe · FAISS · LangChain · Librosa · pandas · NumPy
+Python · PyTorch · TensorFlow/Keras · scikit-learn · OpenCV · MediaPipe · FAISS · LangChain · Librosa · pandas · NumPy
 
 **Application development**  
 FastAPI · Flask · REST APIs · WebSocket · React · TypeScript · Vite · Tailwind CSS · Supabase · SQL
@@ -42,6 +42,12 @@ A research companion to FPT Exam Assistant with reproducible ablations for conte
 An end-to-end emotion-aware music recommendation application. I trained and integrated facial and speech emotion-recognition models, implemented the Flask inference and recommendation logic, and connected the AI backend to a React/TypeScript interface with Supabase authentication and history.
 
 `TensorFlow` `Computer Vision` `Speech Emotion Recognition` `Flask` `React` `TypeScript`
+
+### [Caro-RL-PPO — Deep Reinforcement Learning Agent](https://github.com/ToanTS-0902/Caro-RL-PPO)
+
+An intelligent Caro / Gomoku ($7 \times 7$ Connect-4) agent trained via Proximal Policy Optimization (PPO) and Actor-Critic SE-ResNet architectures. It incorporates curriculum self-play with an opponent pool, 8-fold dihedral data augmentation, and an anti-collapse safeguard to achieve a 98.1% win rate against tactical heuristic bots. Includes a real-time desktop GUI for human vs. AI evaluation.
+
+`PyTorch` `Reinforcement Learning` `PPO` `Actor-Critic` `Self-Play` `Python` `Tkinter`
 
 ### [Smart Face Attendance](https://github.com/ToanTS-0902/smart-face-attendance)
 
